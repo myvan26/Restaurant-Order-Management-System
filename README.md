@@ -1,1 +1,1 @@
-# Restaurant-Order-Managemnet-System
+# Restaurant-Order-Management-System
